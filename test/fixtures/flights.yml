@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_id: 1
+  finish_id: 1
+  start_datetime: 2017-04-05 19:41:10
+  flight_duration: 1
+
+two:
+  start_id: 1
+  finish_id: 1
+  start_datetime: 2017-04-05 19:41:10
+  flight_duration: 1

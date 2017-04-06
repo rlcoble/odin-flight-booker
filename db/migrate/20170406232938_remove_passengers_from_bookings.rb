@@ -1,0 +1,5 @@
+class RemovePassengersFromBookings < ActiveRecord::Migration[5.0]
+  def change
+  	remove_column :bookings, :passengers
+  end
+end
